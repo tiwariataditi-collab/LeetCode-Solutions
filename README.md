@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+| [0228-summary-ranges](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0228-summary-ranges) |
 | [0287-find-the-duplicate-number](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 ## Two Pointers
