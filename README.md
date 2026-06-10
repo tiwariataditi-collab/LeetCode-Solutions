@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0014-longest-common-prefix) |
+| [0020-valid-parentheses](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 ## Trie
 |  |
 | ------- |
@@ -120,5 +121,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->uestions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
