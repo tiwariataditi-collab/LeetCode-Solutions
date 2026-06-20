@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0704-binary-search) |
+| [2363-merge-similar-items](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 ## Two Pointers
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [2363-merge-similar-items](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 ## Sorting
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0645-set-mismatch](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [2363-merge-similar-items](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 ## String
 |  |
 | ------- |
@@ -147,5 +150,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0021-merge-two-sorted-lists) |
+## Ordered Set
+|  |
+| ------- |
+| [2363-merge-similar-items](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 <!---LeetCode Topics End-->uestions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
