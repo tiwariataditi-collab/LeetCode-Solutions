@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [2363-merge-similar-items](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0500-keyboard-row](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [0645-set-mismatch](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0645-set-mismatch) |
 | [2363-merge-similar-items](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 ## Sorting
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
+| [0500-keyboard-row](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [1768-merge-strings-alternately](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
 ## Trie
 |  |
