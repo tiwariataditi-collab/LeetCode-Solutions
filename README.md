@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2363-merge-similar-items](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 ## Two Pointers
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1768-merge-strings-alternately](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0125-valid-palindrome) |
 | [0500-keyboard-row](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/0500-keyboard-row) |
 | [1768-merge-strings-alternately](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/1768-merge-strings-alternately) |
+| [1961-check-if-string-is-a-prefix-of-array](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 ## Trie
 |  |
 | ------- |
