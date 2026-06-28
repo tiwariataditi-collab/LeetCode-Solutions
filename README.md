@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2363-merge-similar-items](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2363-merge-similar-items) |
 | [2460-apply-operations-to-an-array](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 ## Two Pointers
 |  |
 | ------- |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2108-find-first-palindromic-string-in-the-array](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2108-find-first-palindromic-string-in-the-array) |
 | [2460-apply-operations-to-an-array](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 ## Binary Search
 |  |
 | ------- |
@@ -185,5 +187,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2460-apply-operations-to-an-array](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2460-apply-operations-to-an-array) |
+| [2562-find-the-array-concatenation-value](https://github.com/tiwariataditi-collab/LeetCode-Solutions/tree/master/2562-find-the-array-concatenation-value) |
 <!---LeetCode Topics End-->uestions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 <!---LeetCode Topics Start-->
